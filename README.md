@@ -74,6 +74,6 @@ I still have to develop confident for creating layout. I will hon my skill by do
 
 ## Acknowledgments
 
-I am grateful for online mentor Brad traversy and Kevin Powell for guiding me to write better css. They have grate content regarding web development.
+I am grateful for online mentor Brad traversy and Kevin Powell for guiding me to write better css. They have great content regarding web development.
 
  
